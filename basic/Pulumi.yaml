@@ -1,4 +1,4 @@
-name: intermedio
+name: iac-workshop-aws
 runtime:
   name: python
   options:
